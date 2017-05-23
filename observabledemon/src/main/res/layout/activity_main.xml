@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="mvpdemon.observabledemon.MainActivity">
+
+    <Button
+        android:layout_marginTop="50dp"
+        android:onClick="create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:onClick="form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Form" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:onClick="interval"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interval" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:onClick="just"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Just" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:onClick="range"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Range" />
+    <Button
+        android:layout_marginTop="20dp"
+        android:onClick="filter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Filter" />
+</LinearLayout>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bluetooth/Bluetooth.iml" filepath="$PROJECT_DIR$/Bluetooth/Bluetooth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPDemon.iml" filepath="$PROJECT_DIR$/MVPDemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetoothservice/bluetoothservice.iml" filepath="$PROJECT_DIR$/bluetoothservice/bluetoothservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observabledemon/observabledemon.iml" filepath="$PROJECT_DIR$/observabledemon/observabledemon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitdownload/retrofitdownload.iml" filepath="$PROJECT_DIR$/retrofitdownload/retrofitdownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavalogin/rxjavalogin.iml" filepath="$PROJECT_DIR$/rxjavalogin/rxjavalogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavaokhttpimg/rxjavaokhttpimg.iml" filepath="$PROJECT_DIR$/rxjavaokhttpimg/rxjavaokhttpimg.iml" />
+    </modules>
+  </component>
+</project>
